@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFConverter", "PDFConverter\PDFConverter.csproj", "{A5B094E6-DC4B-4D2C-8D30-5D0604468646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{D5346B9A-FEB5-4D0B-8B27-E25834D78A33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5B094E6-DC4B-4D2C-8D30-5D0604468646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5B094E6-DC4B-4D2C-8D30-5D0604468646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5B094E6-DC4B-4D2C-8D30-5D0604468646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5346B9A-FEB5-4D0B-8B27-E25834D78A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5346B9A-FEB5-4D0B-8B27-E25834D78A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5346B9A-FEB5-4D0B-8B27-E25834D78A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5346B9A-FEB5-4D0B-8B27-E25834D78A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,6 +10,8 @@ namespace Validation
     {
         static void Main(string[] args)
         {
+            bankcardsValidation v = new bankcardsValidation();
+            v.MatchCard("36123456780009");
         }
     }
 }
